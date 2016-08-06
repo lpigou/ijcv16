@@ -1,0 +1,9 @@
+latex/
+imgs/
+paths.yaml
+*.gdsheet
+*.gddoc
+*.pyc
+*.lua
+confmat.py
+predict_fail.py
